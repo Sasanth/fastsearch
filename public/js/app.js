@@ -1,11 +1,11 @@
 (function(){
 
 	var config = {
-    apiKey: "AIzaSyDcFVS4pzKbp79YZ6PKeJA-UMm8t4EneJQ",
-    authDomain: "fastsearch-cfe07.firebaseapp.com",
-    databaseURL: "https://fastsearch-cfe07.firebaseio.com",
-    storageBucket: "fastsearch-cfe07.appspot.com",
-    messagingSenderId: "37120716539"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    storageBucket: "",
+    messagingSenderId: ""
   };
   firebase.initializeApp(config);
 
